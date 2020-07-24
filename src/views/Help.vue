@@ -9,7 +9,7 @@
 import { DoxygenXml } from 'vue-doxygen-xml'
 
 export default {
-  name: 'Home',
+  name: 'Help',
   components: {
     DoxygenXml
   }
