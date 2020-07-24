@@ -20,3 +20,6 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Ignore my .eslintignore used for ignoring `link`ed npm package
+.eslintignore
